@@ -1,6 +1,6 @@
 # FoxCheck
 
-Auth:L4ncelot-w7rth
+Auth:L4ncelot-w7rthy
 
 f9ce2580f3155abff38442f1f709376a - l4ncelot -  1 month 18/10/2022 last Date
 
